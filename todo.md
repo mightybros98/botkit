@@ -20,7 +20,7 @@
 
     * move over more useful skills
 
-# Teams 
+# Team 
 
     * direct_message qualifications
     * update/remove message in botworker?
